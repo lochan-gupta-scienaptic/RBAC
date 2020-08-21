@@ -1,0 +1,12 @@
+# AUTHOR - Lochan Gupta
+
+
+Role Based Access Control:
+
+
+
+Follow steps below to test the functionalities - 
+
+1 - Go to directory - /CITI-RBAC/ and Install dependencies : pip install -r requirements.pip
+
+2 - Go to directory - /CITI-RBAC/rbac and RUN: python service.py
